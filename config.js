@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = ''QUEENNILU;;;Y7cWEIII#iNFpvNck_fwWlrezAtGmw7bxeRLQ3t4jZ1af6tqa4uo
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = ''postgres://amindu_234_user:QmmTlys2hgAIpJleiQGfnZxfp1Mh9IFG@dpg-cnd073acn0vc73f4f2j0-a.frankfurt-postgres.render.com/amindu_234
 
  
 
@@ -25,7 +25,7 @@ global.POSTGRESQL_URL = ''
 
 global.OWNER_NUMBER = '94767438882'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'KING AID'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -43,7 +43,7 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'Queen Nilu 2024'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
