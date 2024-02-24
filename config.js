@@ -1,4 +1,4 @@
-/*
+හ/*
 WHATSAPP BOT BY Janith sadanuwan 
 WHATSAPP - 94767438882
 SUPPORT GROUP - https://t.me/QueenNilu
@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = ''QUEENNILU;;;Y7cWEIII#iNFpvNck_fwWlrezAtGmw7bxeRLQ3t4jZ1af6tqa4uo
+global.SESSION_ID = '' QUEENNILU;;;Y7cWEIII#iNFpvNck_fwWlrezAtGmw7bxeRLQ3t4jZ1af6tqa4uo
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''postgres://amindu_234_user:QmmTlys2hgAIpJleiQGfnZxfp1Mh9IFG@dpg-cnd073acn0vc73f4f2j0-a.frankfurt-postgres.render.com/amindu_234
+global.POSTGRESQL_URL = '' postgres://amindu_234_user:QmmTlys2hgAIpJleiQGfnZxfp1Mh9IFG@dpg-cnd073acn0vc73f4f2j0-a.frankfurt-postgres.render.com/amindu_234
 
  
 
